@@ -1,0 +1,28 @@
+{
+  "tasks": [
+      {
+        "id": 1,
+        "text":"alpha",
+        "day":"thusday",
+        "reminder":false
+      },
+      {
+        "id": 2,
+        "text":"alpha",
+        "day":"thusday",
+        "reminder":true
+      },
+      {
+      "id": 3,
+      "text":"alpha",
+      "day":"thusday",
+      "reminder":true
+      },
+    {
+      "id": 4,
+      "text":"alpha",
+      "day":"thusday",
+      "reminder":true
+    }
+  ]
+}
